@@ -1,0 +1,10 @@
+# Ignore Python virtualenvs
+venv/
+# Ignore environment files
+.env
+cookies.pkl
+# Bytecode caches
+__pycache__/
+*.pyc
+# Output folder (optional)
+output/
