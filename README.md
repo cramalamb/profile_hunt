@@ -3,7 +3,7 @@
 A drop-in Python/Selenium script to scrape people by **keyword** or 
 
 # env setup - jake version
-## cd /Users/jake/Desktop/coding/LinkedIn/breakline
+## cd /Users/jake/Desktop/coding/LinkedIn/profile_hunt
 ## cp .env.example .env
 # then open .env in your editor and fill in LINKEDIN_USER and LINKEDIN_PASS
 
