@@ -1,10 +1,10 @@
-# Ignore Python virtualenvs
-venv/
-# Ignore environment files
-.env
-cookies.pkl
-# Bytecode caches
+cat <<EOF > .gitignore
+# Python cache files
 __pycache__/
-*.pyc
-# Output folder (optional)
-output/
+*.py[cod]
+# macOS
+.DS_Store
+# Virtual environment
+venv/
+.env
+EOF
