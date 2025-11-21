@@ -3,16 +3,15 @@
 A drop-in Python/Selenium script to scrape people by **keyword** or 
 
 ## env setup - jake version
-## cd /Users/jake/Desktop/coding/LinkedIn/profile_hunt
-## cp .env.example .env
+#### cd /Users/jake/Desktop/coding/LinkedIn/profile_hunt
+#### cp .env.example .env
 # then open .env in your editor and fill in LINKEDIN_USER and LINKEDIN_PASS
 
 # create and activate
-## python3 -m venv venv
-## source venv/bin/activate
-
-# install dependents
-## pip install -r requirements.txt
+1. `python3 -m venv venv`
+2. `source venv/bin/activate`
+3. `install dependents`
+4. `pip install -r requirements.txt`
 
 
 **company** (current & past).
